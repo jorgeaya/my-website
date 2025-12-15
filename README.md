@@ -1,3 +1,3 @@
-# Starter Web
+# My Website
 
-This is a Starter website project
+This is a really awesome website
